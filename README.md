@@ -1,6 +1,7 @@
 # Random-ape-image-generator
 <h2> 🚀 Generates random images of Apes from Bored Ape Yatch Club NFT collection </h2>
 <hr/>
+<h3>🔥 Powered by Vanilla Javascript</h3>
 <h3>🔥 completely mobile responsive </h3>
 
 
