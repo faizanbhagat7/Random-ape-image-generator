@@ -1,5 +1,9 @@
 # Random-ape-image-generator
 <h2> 🚀 Generates random images of Apes from Bored Ape Yatch Club NFT collection </h2>
+<hr>
+<h2>Link to the Deployed website</h2>
+https://merry-gaufre-56db8f.netlify.app
+
 <hr/>
 <h3>🔥 Powered by Vanilla Javascript</h3>
 <h3>🔥 completely mobile responsive </h3>
